@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <random>
-#include <algorithm>
 
 using namespace std;
 
@@ -10,22 +9,16 @@ struct Item{
     int value;
 };
 
-struct Knapsack {
-    int capacity;
-    vector<int> selectedItems;
-    int totalValue;
-    int totalWeight;
-};
 double randomBetweenZeroAndOne() {
-    random_device rd;  // Initialize the random device
-    mt19937 gen(rd()); // Mersenne Twister pseudo-random generator
+    random_device rd;
+    mt19937 gen(rd());
     uniform_real_distribution<double> distribution(0.0, 1.0);
     return distribution(gen);
 }
 int randomBetweenZeroAndNum(int value) {
 
-    random_device rd;  // Initialize the random device
-    mt19937 gen(rd()); // Mersenne Twister pseudo-random generator
+    random_device rd;
+    mt19937 gen(rd());
     uniform_int_distribution<int> distribution(0, value);
     return distribution(gen);
 }
