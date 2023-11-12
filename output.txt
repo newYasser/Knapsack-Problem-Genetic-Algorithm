@@ -1,0 +1,418 @@
+Test Case Number: 1
+Selected Item 2: Weight = 7, Value = 7
+Selected Item 3: Weight = 1, Value = 22
+Selected Item 4: Weight = 3, Value = 23
+Selected Item 5: Weight = 3, Value = 6
+Number of Selected Items: 4
+Total Weight: 14
+Total Value: 58
+
+Test Case Number: 2
+Selected Item 2: Weight = 9, Value = 27
+Selected Item 3: Weight = 8, Value = 12
+Selected Item 4: Weight = 8, Value = 28
+Selected Item 5: Weight = 3, Value = 23
+Number of Selected Items: 4
+Total Weight: 28
+Total Value: 90
+
+Test Case Number: 3
+Selected Item 1: Weight = 4, Value = 35
+Selected Item 3: Weight = 7, Value = 32
+Selected Item 4: Weight = 4, Value = 34
+Selected Item 5: Weight = 8, Value = 29
+Number of Selected Items: 4
+Total Weight: 23
+Total Value: 130
+
+Test Case Number: 4
+Selected Item 2: Weight = 10, Value = 7
+Selected Item 3: Weight = 1, Value = 14
+Selected Item 4: Weight = 4, Value = 16
+Selected Item 5: Weight = 2, Value = 9
+Number of Selected Items: 4
+Total Weight: 17
+Total Value: 46
+
+Test Case Number: 5
+Selected Item 2: Weight = 5, Value = 15
+Selected Item 3: Weight = 11, Value = 51
+Selected Item 6: Weight = 7, Value = 15
+Selected Item 7: Weight = 8, Value = 21
+Selected Item 8: Weight = 4, Value = 25
+Selected Item 9: Weight = 1, Value = 49
+Selected Item 10: Weight = 5, Value = 13
+Number of Selected Items: 7
+Total Weight: 41
+Total Value: 189
+
+Test Case Number: 6
+Selected Item 1: Weight = 5, Value = 18
+Selected Item 2: Weight = 6, Value = 55
+Selected Item 3: Weight = 2, Value = 20
+Selected Item 4: Weight = 6, Value = 30
+Selected Item 7: Weight = 9, Value = 27
+Selected Item 8: Weight = 3, Value = 58
+Selected Item 9: Weight = 6, Value = 8
+Selected Item 10: Weight = 10, Value = 58
+Number of Selected Items: 8
+Total Weight: 47
+Total Value: 274
+
+Test Case Number: 7
+Selected Item 1: Weight = 11, Value = 20
+Selected Item 2: Weight = 3, Value = 38
+Selected Item 3: Weight = 5, Value = 15
+Selected Item 4: Weight = 2, Value = 17
+Selected Item 5: Weight = 2, Value = 26
+Selected Item 7: Weight = 6, Value = 41
+Selected Item 8: Weight = 2, Value = 37
+Selected Item 10: Weight = 2, Value = 42
+Number of Selected Items: 8
+Total Weight: 33
+Total Value: 236
+
+Test Case Number: 8
+Selected Item 1: Weight = 7, Value = 25
+Selected Item 2: Weight = 7, Value = 19
+Selected Item 3: Weight = 6, Value = 15
+Selected Item 5: Weight = 3, Value = 46
+Selected Item 6: Weight = 10, Value = 21
+Selected Item 8: Weight = 5, Value = 58
+Selected Item 9: Weight = 8, Value = 18
+Number of Selected Items: 7
+Total Weight: 46
+Total Value: 202
+
+Test Case Number: 9
+Selected Item 1: Weight = 38, Value = 252
+Selected Item 2: Weight = 46, Value = 212
+Selected Item 3: Weight = 1, Value = 150
+Selected Item 5: Weight = 50, Value = 250
+Selected Item 7: Weight = 3, Value = 136
+Selected Item 8: Weight = 10, Value = 390
+Selected Item 9: Weight = 36, Value = 236
+Selected Item 10: Weight = 17, Value = 276
+Selected Item 12: Weight = 48, Value = 243
+Selected Item 13: Weight = 28, Value = 183
+Selected Item 16: Weight = 30, Value = 269
+Selected Item 17: Weight = 26, Value = 304
+Selected Item 18: Weight = 39, Value = 337
+Selected Item 19: Weight = 41, Value = 139
+Number of Selected Items: 14
+Total Weight: 413
+Total Value: 3377
+
+Test Case Number: 10
+Selected Item 1: Weight = 26, Value = 360
+Selected Item 2: Weight = 42, Value = 212
+Selected Item 6: Weight = 36, Value = 122
+Selected Item 7: Weight = 16, Value = 271
+Selected Item 8: Weight = 12, Value = 166
+Selected Item 9: Weight = 15, Value = 351
+Selected Item 10: Weight = 45, Value = 93
+Selected Item 11: Weight = 21, Value = 226
+Selected Item 12: Weight = 42, Value = 237
+Selected Item 13: Weight = 28, Value = 311
+Selected Item 14: Weight = 20, Value = 187
+Selected Item 16: Weight = 47, Value = 16
+Selected Item 17: Weight = 48, Value = 148
+Selected Item 18: Weight = 4, Value = 208
+Selected Item 20: Weight = 16, Value = 143
+Number of Selected Items: 15
+Total Weight: 418
+Total Value: 2958
+
+Test Case Number: 11
+Selected Item 2: Weight = 3, Value = 296
+Selected Item 3: Weight = 35, Value = 155
+Selected Item 4: Weight = 19, Value = 127
+Selected Item 5: Weight = 21, Value = 58
+Selected Item 6: Weight = 5, Value = 76
+Selected Item 9: Weight = 33, Value = 224
+Selected Item 10: Weight = 29, Value = 109
+Selected Item 12: Weight = 27, Value = 206
+Selected Item 14: Weight = 45, Value = 164
+Selected Item 16: Weight = 10, Value = 99
+Selected Item 17: Weight = 46, Value = 78
+Selected Item 18: Weight = 41, Value = 280
+Selected Item 19: Weight = 11, Value = 362
+Number of Selected Items: 13
+Total Weight: 325
+Total Value: 2234
+
+Test Case Number: 12
+Selected Item 1: Weight = 20, Value = 229
+Selected Item 2: Weight = 27, Value = 18
+Selected Item 3: Weight = 1, Value = 214
+Selected Item 4: Weight = 37, Value = 275
+Selected Item 6: Weight = 4, Value = 305
+Selected Item 7: Weight = 20, Value = 191
+Selected Item 8: Weight = 26, Value = 271
+Selected Item 11: Weight = 20, Value = 77
+Selected Item 12: Weight = 25, Value = 62
+Selected Item 14: Weight = 25, Value = 74
+Selected Item 15: Weight = 13, Value = 144
+Selected Item 16: Weight = 25, Value = 110
+Selected Item 18: Weight = 17, Value = 159
+Selected Item 19: Weight = 44, Value = 358
+Selected Item 20: Weight = 21, Value = 350
+Number of Selected Items: 15
+Total Weight: 325
+Total Value: 2837
+
+Test Case Number: 13
+Selected Item 2: Weight = 46, Value = 428
+Selected Item 3: Weight = 12, Value = 441
+Selected Item 7: Weight = 31, Value = 343
+Selected Item 8: Weight = 7, Value = 504
+Selected Item 9: Weight = 43, Value = 178
+Selected Item 11: Weight = 28, Value = 426
+Selected Item 12: Weight = 29, Value = 409
+Selected Item 14: Weight = 49, Value = 190
+Selected Item 15: Weight = 19, Value = 334
+Selected Item 17: Weight = 39, Value = 92
+Selected Item 19: Weight = 7, Value = 29
+Selected Item 21: Weight = 48, Value = 298
+Selected Item 22: Weight = 40, Value = 251
+Selected Item 25: Weight = 31, Value = 559
+Selected Item 26: Weight = 41, Value = 418
+Selected Item 27: Weight = 4, Value = 515
+Selected Item 28: Weight = 10, Value = 347
+Selected Item 29: Weight = 40, Value = 576
+Number of Selected Items: 18
+Total Weight: 524
+Total Value: 6555
+
+Test Case Number: 14
+Selected Item 1: Weight = 31, Value = 413
+Selected Item 2: Weight = 41, Value = 247
+Selected Item 5: Weight = 42, Value = 99
+Selected Item 7: Weight = 13, Value = 101
+Selected Item 9: Weight = 28, Value = 91
+Selected Item 10: Weight = 32, Value = 596
+Selected Item 13: Weight = 37, Value = 508
+Selected Item 15: Weight = 48, Value = 535
+Selected Item 16: Weight = 45, Value = 11
+Selected Item 18: Weight = 4, Value = 240
+Selected Item 19: Weight = 40, Value = 163
+Selected Item 20: Weight = 7, Value = 529
+Selected Item 21: Weight = 47, Value = 571
+Selected Item 23: Weight = 18, Value = 271
+Selected Item 24: Weight = 43, Value = 398
+Selected Item 26: Weight = 23, Value = 528
+Selected Item 27: Weight = 12, Value = 550
+Selected Item 28: Weight = 29, Value = 625
+Number of Selected Items: 18
+Total Weight: 540
+Total Value: 6476
+
+Test Case Number: 15
+Selected Item 1: Weight = 1, Value = 451
+Selected Item 2: Weight = 4, Value = 246
+Selected Item 3: Weight = 41, Value = 503
+Selected Item 5: Weight = 27, Value = 197
+Selected Item 7: Weight = 23, Value = 127
+Selected Item 8: Weight = 43, Value = 221
+Selected Item 9: Weight = 14, Value = 509
+Selected Item 11: Weight = 3, Value = 326
+Selected Item 13: Weight = 25, Value = 255
+Selected Item 16: Weight = 17, Value = 461
+Selected Item 17: Weight = 41, Value = 462
+Selected Item 18: Weight = 50, Value = 358
+Selected Item 19: Weight = 12, Value = 435
+Selected Item 20: Weight = 4, Value = 371
+Selected Item 21: Weight = 29, Value = 561
+Selected Item 22: Weight = 33, Value = 301
+Selected Item 25: Weight = 42, Value = 163
+Selected Item 27: Weight = 32, Value = 218
+Selected Item 28: Weight = 39, Value = 256
+Selected Item 30: Weight = 6, Value = 396
+Number of Selected Items: 20
+Total Weight: 486
+Total Value: 6817
+
+Test Case Number: 16
+Selected Item 1: Weight = 45, Value = 317
+Selected Item 2: Weight = 33, Value = 512
+Selected Item 4: Weight = 32, Value = 524
+Selected Item 8: Weight = 30, Value = 268
+Selected Item 10: Weight = 1, Value = 549
+Selected Item 11: Weight = 30, Value = 328
+Selected Item 12: Weight = 49, Value = 528
+Selected Item 14: Weight = 13, Value = 127
+Selected Item 15: Weight = 20, Value = 238
+Selected Item 17: Weight = 22, Value = 227
+Selected Item 18: Weight = 46, Value = 489
+Selected Item 19: Weight = 22, Value = 332
+Selected Item 20: Weight = 24, Value = 452
+Selected Item 22: Weight = 38, Value = 139
+Selected Item 23: Weight = 12, Value = 155
+Selected Item 24: Weight = 9, Value = 145
+Selected Item 25: Weight = 5, Value = 378
+Selected Item 26: Weight = 8, Value = 508
+Selected Item 28: Weight = 47, Value = 546
+Selected Item 29: Weight = 17, Value = 445
+Selected Item 30: Weight = 37, Value = 238
+Number of Selected Items: 21
+Total Weight: 540
+Total Value: 7445
+
+Test Case Number: 17
+Selected Item 1: Weight = 46, Value = 824
+Selected Item 2: Weight = 13, Value = 216
+Selected Item 3: Weight = 20, Value = 467
+Selected Item 4: Weight = 9, Value = 103
+Selected Item 5: Weight = 3, Value = 467
+Selected Item 6: Weight = 10, Value = 245
+Selected Item 7: Weight = 5, Value = 701
+Selected Item 10: Weight = 10, Value = 517
+Selected Item 11: Weight = 43, Value = 365
+Selected Item 13: Weight = 30, Value = 165
+Selected Item 14: Weight = 23, Value = 498
+Selected Item 15: Weight = 47, Value = 579
+Selected Item 17: Weight = 16, Value = 409
+Selected Item 19: Weight = 18, Value = 550
+Selected Item 22: Weight = 40, Value = 237
+Selected Item 24: Weight = 17, Value = 29
+Selected Item 25: Weight = 26, Value = 467
+Selected Item 27: Weight = 46, Value = 650
+Selected Item 28: Weight = 8, Value = 827
+Selected Item 29: Weight = 35, Value = 841
+Selected Item 30: Weight = 22, Value = 291
+Selected Item 31: Weight = 15, Value = 453
+Selected Item 33: Weight = 14, Value = 286
+Selected Item 34: Weight = 46, Value = 431
+Selected Item 35: Weight = 18, Value = 583
+Selected Item 37: Weight = 2, Value = 674
+Selected Item 39: Weight = 26, Value = 774
+Selected Item 41: Weight = 12, Value = 646
+Selected Item 42: Weight = 17, Value = 415
+Selected Item 46: Weight = 17, Value = 527
+Selected Item 47: Weight = 2, Value = 259
+Selected Item 49: Weight = 18, Value = 600
+Selected Item 50: Weight = 22, Value = 575
+Number of Selected Items: 33
+Total Weight: 696
+Total Value: 15671
+
+Test Case Number: 18
+Selected Item 3: Weight = 29, Value = 620
+Selected Item 4: Weight = 15, Value = 150
+Selected Item 5: Weight = 45, Value = 338
+Selected Item 6: Weight = 8, Value = 781
+Selected Item 8: Weight = 5, Value = 800
+Selected Item 9: Weight = 8, Value = 243
+Selected Item 10: Weight = 16, Value = 675
+Selected Item 11: Weight = 31, Value = 327
+Selected Item 12: Weight = 9, Value = 163
+Selected Item 14: Weight = 1, Value = 528
+Selected Item 15: Weight = 36, Value = 109
+Selected Item 16: Weight = 41, Value = 294
+Selected Item 17: Weight = 37, Value = 511
+Selected Item 18: Weight = 41, Value = 808
+Selected Item 21: Weight = 14, Value = 126
+Selected Item 22: Weight = 2, Value = 710
+Selected Item 23: Weight = 45, Value = 140
+Selected Item 24: Weight = 40, Value = 776
+Selected Item 25: Weight = 11, Value = 395
+Selected Item 26: Weight = 20, Value = 716
+Selected Item 28: Weight = 1, Value = 74
+Selected Item 31: Weight = 44, Value = 372
+Selected Item 32: Weight = 18, Value = 367
+Selected Item 33: Weight = 19, Value = 133
+Selected Item 34: Weight = 20, Value = 526
+Selected Item 35: Weight = 16, Value = 673
+Selected Item 37: Weight = 2, Value = 156
+Selected Item 38: Weight = 6, Value = 482
+Selected Item 40: Weight = 23, Value = 649
+Selected Item 41: Weight = 6, Value = 177
+Selected Item 42: Weight = 35, Value = 660
+Selected Item 44: Weight = 21, Value = 164
+Selected Item 45: Weight = 2, Value = 636
+Selected Item 47: Weight = 45, Value = 351
+Selected Item 48: Weight = 38, Value = 132
+Selected Item 50: Weight = 10, Value = 431
+Number of Selected Items: 36
+Total Weight: 760
+Total Value: 15193
+
+Test Case Number: 19
+Selected Item 4: Weight = 28, Value = 687
+Selected Item 6: Weight = 48, Value = 590
+Selected Item 10: Weight = 49, Value = 703
+Selected Item 11: Weight = 33, Value = 206
+Selected Item 13: Weight = 20, Value = 42
+Selected Item 15: Weight = 47, Value = 797
+Selected Item 16: Weight = 19, Value = 827
+Selected Item 17: Weight = 8, Value = 398
+Selected Item 18: Weight = 31, Value = 191
+Selected Item 19: Weight = 36, Value = 160
+Selected Item 20: Weight = 17, Value = 847
+Selected Item 21: Weight = 44, Value = 825
+Selected Item 22: Weight = 32, Value = 456
+Selected Item 23: Weight = 1, Value = 40
+Selected Item 24: Weight = 8, Value = 147
+Selected Item 25: Weight = 37, Value = 542
+Selected Item 26: Weight = 31, Value = 456
+Selected Item 27: Weight = 13, Value = 857
+Selected Item 28: Weight = 30, Value = 166
+Selected Item 29: Weight = 6, Value = 814
+Selected Item 30: Weight = 25, Value = 507
+Selected Item 31: Weight = 20, Value = 724
+Selected Item 33: Weight = 22, Value = 415
+Selected Item 35: Weight = 24, Value = 659
+Selected Item 36: Weight = 29, Value = 881
+Selected Item 37: Weight = 22, Value = 364
+Selected Item 39: Weight = 4, Value = 659
+Selected Item 40: Weight = 35, Value = 221
+Selected Item 42: Weight = 32, Value = 58
+Selected Item 43: Weight = 4, Value = 825
+Selected Item 44: Weight = 3, Value = 360
+Selected Item 45: Weight = 30, Value = 200
+Selected Item 49: Weight = 4, Value = 728
+Selected Item 50: Weight = 8, Value = 62
+Number of Selected Items: 34
+Total Weight: 800
+Total Value: 16529
+
+Test Case Number: 20
+Selected Item 2: Weight = 36, Value = 239
+Selected Item 3: Weight = 35, Value = 591
+Selected Item 6: Weight = 35, Value = 546
+Selected Item 7: Weight = 4, Value = 769
+Selected Item 8: Weight = 26, Value = 93
+Selected Item 9: Weight = 4, Value = 598
+Selected Item 12: Weight = 50, Value = 846
+Selected Item 13: Weight = 33, Value = 882
+Selected Item 14: Weight = 10, Value = 347
+Selected Item 15: Weight = 40, Value = 592
+Selected Item 16: Weight = 30, Value = 527
+Selected Item 17: Weight = 10, Value = 623
+Selected Item 18: Weight = 16, Value = 288
+Selected Item 19: Weight = 15, Value = 68
+Selected Item 20: Weight = 25, Value = 599
+Selected Item 21: Weight = 32, Value = 595
+Selected Item 24: Weight = 2, Value = 99
+Selected Item 25: Weight = 40, Value = 64
+Selected Item 26: Weight = 44, Value = 135
+Selected Item 27: Weight = 23, Value = 261
+Selected Item 29: Weight = 14, Value = 203
+Selected Item 31: Weight = 28, Value = 628
+Selected Item 32: Weight = 4, Value = 392
+Selected Item 33: Weight = 42, Value = 162
+Selected Item 34: Weight = 23, Value = 109
+Selected Item 36: Weight = 37, Value = 248
+Selected Item 39: Weight = 28, Value = 912
+Selected Item 40: Weight = 27, Value = 784
+Selected Item 41: Weight = 5, Value = 335
+Selected Item 44: Weight = 21, Value = 893
+Selected Item 45: Weight = 36, Value = 657
+Selected Item 46: Weight = 28, Value = 168
+Selected Item 47: Weight = 35, Value = 200
+Selected Item 49: Weight = 35, Value = 599
+Selected Item 50: Weight = 20, Value = 299
+Number of Selected Items: 35
+Total Weight: 893
+Total Value: 15351
+
